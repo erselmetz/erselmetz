@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ersel Metz Magbanua</h1>
 <h3 align="center">A passionate web developer from Philippines</h3>
 
-- 👨‍💻 All of my projects are available at [https://erselprofile.ml](https://erselprofile.ml)
+- 👨‍💻 All of my projects are available at [https://erselmetz.github.io/profile](https://erselmetz.github.io/profile)
 
 - 📫 How to reach me **magbanuaersel@gmail.com**
 
